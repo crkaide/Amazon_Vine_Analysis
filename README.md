@@ -7,7 +7,7 @@ The primary purpose of this analysis is to inform the decisions of manufacturers
 ## Results table
 ![del_3_a.png](https://github.com/crkaide/Amazon_Vine_Analysis/blob/main/Images/del_3_a.png?raw=true)
 
-1. There were 33 total vine reviews and 45,388 non-Vine reviews.
+1. There were 33 total Vine reviews and 45,388 non-Vine reviews.
 2. There were 15 5-star Vine ratings and 23,733 5-star non-Vine ratings.
 3. 45% of Vine reviews were 5-star.  52% of non-Vine reviews were 5-star.
 
