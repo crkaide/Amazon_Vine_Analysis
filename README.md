@@ -22,4 +22,4 @@ There are two primary limitations to this analysis:
 
 I recommend additional analysis that buckets all reviews as follows: positive = 4 & 5 star, neutral = 3 star, negative = 2 & 1 star.  Stacked bar graphs of paid vs. unpaid with this categorization will more comprehensively support failing the hypothesis (if failing it holds up under this add'l analysis).  
 
-While reviews are assigned a rating, sentiment analysis and keyword identification of the review text would likely provide great value to this report.
+While reviews are assigned a rating, sentiment analysis and keyword identification of the review text would likely add great value to this report.
