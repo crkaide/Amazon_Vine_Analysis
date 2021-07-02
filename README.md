@@ -8,7 +8,7 @@ The primary purpose of this analysis is to inform the decisions of manufacturers
 ## Results Table
 ![del_3_a.png](https://github.com/crkaide/Amazon_Vine_Analysis/blob/main/Images/del_3_a.png?raw=true)
 
-
+1. 
 
 
 
